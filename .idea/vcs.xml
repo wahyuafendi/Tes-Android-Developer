@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$/Assesment-Test-" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AssesmentTest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tes-Android-Developer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tes-Android-Developer/Assesment-Test-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tes-Android-Developer/AssesmentTest" vcs="Git" />
   </component>
 </project>
